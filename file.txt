@@ -1,2 +1,6 @@
+
+
 hello feature 2
 feature modification par colloborateur
+je viens de modifier ce fichier pour tester le processus git (3)
+
